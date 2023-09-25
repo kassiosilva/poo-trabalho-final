@@ -1,5 +1,5 @@
 # POO com java
-> Projeto destinado a colocar em prática os conceitos de pregramação orientada a objetos com java
+> Projeto destinado a colocar em prática os conceitos de programação orientada a objetos com java
 
 ## Como executar o projeto?
 1. O primeiro passo é clonar o projeto
